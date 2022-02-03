@@ -1,0 +1,2 @@
+private boolean alive;
+private orientation oriantation;
